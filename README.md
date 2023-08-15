@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/zyf-good/zyf-good/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
 - 👨‍💻 I am an Android development engineer and I enjoy exploring new technologies like Jetpack Compose
 - 🏘️ I work in Chengdu
