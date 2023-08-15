@@ -4,7 +4,7 @@
 
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
-- 👨‍💻 I am an Android development engineer
+- 👨‍💻 I am an Android development engineer and I enjoy exploring new technologies like Jetpack Compose
 - 🏘️ I work in Chengdu
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and game like APEX.
 - 💬 Be free to ask me about anything [here](https://github.com/zyf-good/zyf-good/issues).
