@@ -13,12 +13,21 @@
  - WeChat： wxid_0pjn86sdef0a22
  - QQ 834917014
  - phone +86 18716282661
+ - Personal official account QR code,if you are interested, you can follow me
+  
+  <img align="center" alt="GIF" src="src/qrcode_for_wechat.jpg" width="350" height="350" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+ 
+
 
 ---
 
 </details>
 
+<img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!">
+
 ![zengyifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyf-good&show_icons=true)
+
+
 
 <p align="center">
  
@@ -43,6 +52,8 @@
 <h2></h2>
 
 👈 Follow me on the left（点击左侧关注我）
+
+
 
 ### 📝 My posts
 
