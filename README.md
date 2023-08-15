@@ -23,7 +23,6 @@
 
 </details>
 
-<img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!">
 
 ![zengyifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyf-good&show_icons=true)
 
@@ -53,8 +52,6 @@
 
 👈 Follow me on the left（点击左侧关注我）
 
-
-
 ### 📝 My posts
 
 
@@ -72,3 +69,11 @@
   <li> <a href="https://blog.csdn.net/shop_and_sleep?type=blog" target="_blank"><b> >> Read more ✨✨ </b></a> </li>
   </td>
 </tr>
+
+<img align="left" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!">
+<img align="left" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!">
+
+
+
+
+
